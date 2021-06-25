@@ -10,7 +10,7 @@ namespace CSProject.Models
     {
         //Fields
         private const float overtimeRate = 15.5F;
-        private const float adminHourlyRate = 30;
+        private const float adminHourlyRate = 30; //test test test
 
         //Properties
         public float Overtime { get; private set; }
